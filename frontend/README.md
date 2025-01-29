@@ -47,16 +47,23 @@ link, style, select, option, sup
 ### Referenties
 
 HTML
+
 Tutorial: https://www.w3schools.com/html/default.asp
+
 Reference Guide: https://www.w3schools.com/tags/default.asp
 
 CSS
+
 Tutorial: https://www.w3schools.com/css/default.asp
+
 Reference Guide: https://www.w3schools.com/cssref/index.php
+
 Reference Guide Selector: https://www.w3schools.com/cssref/css_selectors.php
 
 Javascript
+
 Tutorial: https://www.w3schools.com/js/default.asp
+
 Reference Guide: https://www.w3schools.com/jsref/default.asp
 
 ### Link naar eerste JavaScript opdrachten (Week 2 a 3 in traject)
