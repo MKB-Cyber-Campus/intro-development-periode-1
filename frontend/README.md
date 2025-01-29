@@ -17,9 +17,27 @@ Mocht je nog geen Github account hebben en Git nog niet geinstalleerd, dan kun j
 Het volgende artikel legt uit hoe je Git kunt gebruiken in Vs Code:
 https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
 
+### Intro op HTML CSS en JavaScript
+
+https://www.youtube.com/watch?v=TAt4i6CVbVE
+
+### Populaire tags
+
+a, b, i, u, p, span, div, table, tr, td, head, body, script, title, meta,
+textarea, title, br, button, details, dl, img, form, h1, h6, input, li, ol, ul,
+link, style, select, option, sup
+
+### Link naar eerste opdrachten
+
+https://0111.nl/programmayc/miniopdrachtenhtmlcssjs.html
 
 ### Programma
 
 Het programma tref je op:
 
 http://0111.nl/fe2
+
+
+### DocentNotitie
+
+Ik ga er van uit dat studenten hun extensies en hun verborgen bestanden kunnen zien.
