@@ -24,7 +24,7 @@ Maak een bestand index.html, open dit met kladblok of VS Code.
 Probeer een aantal tags uit en kijk of je het effect op de tekst tussen de tags in de browser ziet.
 Als dit zo is ben je klaar om te beginnen.
 
-Maak met html een css een website over een onderwerp dat je interessant vind, de film zal je een eerste basis kennis geven.
+Maak met html en css een website over een onderwerp dat je interessant vind, de film zal je een eerste basis kennis geven.
 Let op dat de film heel snel van het begin naar gevorderd gaat.
 De openingsopdracht is dus dat je een visuele site maakt die statische onveranderlijke gegevens bevat.
 Sluit gerust afbeeldingen in.
